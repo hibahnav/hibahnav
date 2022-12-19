@@ -8,6 +8,7 @@ Welcome to my profile!
 
 
 Check out my data vis work here: https://github.com/hibahnav/DataVis
+
 And other analysis here: https://github.com/hibahnav/Happiness_of_Countries ; https://github.com/hibahnav/Exploring-Point-Processes; https://github.com/hibahnav/Exploring_the_6ix
 
 Writing here: https://github.com/hibahnav/AI_bias
